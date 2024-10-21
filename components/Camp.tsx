@@ -56,14 +56,14 @@ export const Camp = () => {
           backgroundImage="bg-bg-img-2"
           title="Mountain View Camp"
           subtitle="Somewhere in the Wilderness"
-          visitors="50+ Joined"
+          visitors="150+ Visitors"
         />
 
         <Campsite
           backgroundImage="bg-bg-img-1"
           title="Gajog Hill Camp"
           subtitle="Family, friends"
-          visitors="200K+"
+          visitors="200K+ Visitors"
         ></Campsite>
       </div>
       <div className="flexEnd mt-10 px-6 lg:-mt-60 lg:mr-6">
