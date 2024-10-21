@@ -15,3 +15,11 @@ Website landing page for a ficitional travel agency based in Indonesia that prov
 ## Live Demo
 
 You can check the live demo here: [Deployed on Vercel](https://hilink-travel-azure.vercel.app/)
+
+## Screenshots
+
+_Desktop design_
+![Desktop design](/desktop.png)
+
+_Mobile design_
+![Mobile design](/mobile.png)
